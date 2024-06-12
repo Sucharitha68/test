@@ -1,0 +1,3 @@
+name suchi 
+village Bangalore
+registration no :1234567
